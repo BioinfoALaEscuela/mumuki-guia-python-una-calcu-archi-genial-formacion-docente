@@ -1,4 +1,4 @@
-Pero Python no sería una _calculadora_ tan genial si sólo nos dejara hacer cuentas :person_shrugging:. ¡También tiene memoria!
+Pero Python no sería una _calculadora_ tan genial si sólo nos dejara hacer cuentas 🤷. ¡También tiene memoria!
 
 ¿Memoria? :scream: Sí, Python puede recordar los resultados de las cuentas que hayamos hecho, usando algo llamado _variable_, que no es más que un nombre que podemos darle a un valor...
 
