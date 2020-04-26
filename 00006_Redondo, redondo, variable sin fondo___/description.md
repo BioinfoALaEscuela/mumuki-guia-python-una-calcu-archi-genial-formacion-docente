@@ -11,5 +11,5 @@ Ahora le preguntaremos a `Python` cuánto vale ‘b’:
 print(b)
 ```
 
-¿Podrías escribir una variable cuyo valor sea la palabra "bioinformática" e imprimir en pantalla su valor?
+> Escribi en la consola una variable cuyo valor sea la palabra "bioinformática". Luego imprimí en pantalla su valor
 
