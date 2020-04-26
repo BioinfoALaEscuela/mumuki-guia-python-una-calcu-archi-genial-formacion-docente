@@ -5,7 +5,7 @@ En el caso de las letras o palabras, siempre debemos escribirlas entre comillas 
 b = 'hola'
 ```
 
-Ahora le preguntaremos a `Python` cuánto vale ‘b’:
+Ahora le preguntaremos a `Python` cuánto vale `b`:
 
 ``` python
 print(b)
