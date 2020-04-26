@@ -14,7 +14,7 @@ productos_en_stock = 20 - 1
 tamanio_del_terreno = 40 * 60
 ```
 
-Una vez _declarada_ (es decir, creada) esa variable, `Python` recordará que ese nombre "contiene" el valor que le hayamos _asignado_. Y si más tarde escribimos ese nombre, nos dirá cuanto vale: 
+Una vez _declarada_ (es decir, creada) esa variable, `Python` recordará que ese nombre "contiene" el valor que le hayamos _asignado_. Y si más tarde _leemos_ esa variable, nos dirá cuanto vale: 
 
 ```python
 ム cantidad_dias_en_una_semana
@@ -23,4 +23,4 @@ Una vez _declarada_ (es decir, creada) esa variable, `Python` recordará que ese
 19
 ```
 
-> El sistema solar [tiene 8 planetas](https://es.wikipedia.org/wiki/Sistema_solar). Para no olvidarnos de ello, declará en la consola la variable `cantidad_planetas_sistema_solar` y asignarle el número `8`!
+> El sistema solar [tiene 8 planetas](https://es.wikipedia.org/wiki/Sistema_solar). Para no olvidarnos de ello, declará en la consola la variable `cantidad_planetas_sistema_solar` y asignarle el número `8`. ¡Después fiajte cuanto vale!
