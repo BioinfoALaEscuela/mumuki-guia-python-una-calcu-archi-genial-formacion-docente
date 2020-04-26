@@ -7,6 +7,8 @@ Como venimos notando la consola nos permite ingresar código Python y probarlo p
 14
 ```
 
-Además, quizás habrás notado que siempre en la consola hay un chirimbolito delante del código que ingresás, que se llama _prompt_: algunas veces será un `>`, otras un `$`, pero en Mumuki usaremos simpre una `ム` (se pronuncia _mu_). Ojo, cuando te mostremos ejemplos de código, si ves un _promt_ no lo copies, porque forma parte de la consola :wink:
+Además, quizás habrás notado que siempre en la consola hay un chirimbolito delante del código que ingresás, que se llama _prompt_: algunas veces será un `>`, otras un `$`, pero en Mumuki usaremos simpre una `ム` (se pronuncia _mu_). 
+
+:eyes: Ojo, cuando te mostremos ejemplos de código, si ves un _promt_ no lo copies, porque forma parte de la consola :wink:
 
 
