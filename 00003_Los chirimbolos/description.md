@@ -19,4 +19,4 @@ Como acabamos de ver en Python podemos multiplicar :heavy_multiplication_x: y di
 > (5 + 30) * 20
 > ```
 >
-> ..¿darán lo mismo? ¡Probalas averigualo!
+> ..¿darán lo mismo? ¡Probalas y averigualo!
