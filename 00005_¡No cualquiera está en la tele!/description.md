@@ -6,7 +6,7 @@ Existen en `Python` algunas restricciones para los nombres de variables:
 
 Algunos ejemplos de nombres permitidos son:
 
-* variable1     
-* variable_2
+* `variable1`     
+* `variable_2`
 
-Sabiendo esto ya podemos seguir!!! :muscle::clap:
+¡Sabiendo esto ya podemos seguir! :muscle::clap:
