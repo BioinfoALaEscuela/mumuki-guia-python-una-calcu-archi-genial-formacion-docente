@@ -2,10 +2,10 @@ En Python se puede usar los siguientes sı́mbolos básicos de matemáticas, que
 
 |Operación	     | Operador  | Ejemplo  | 
 |-------------	 |----------	|-------  |
-| Suma           | `+`       | `4 + 9`  | 
-| Resta          | `-`       | `12 - 2` | 
-| Multiplicación | `*`       | `2 * 3`  | 
-| División       | `/`       | `16 / 2` |
+| :heavy_plus_sign: Suma           | `+`       | `4 + 9`  | 
+| :heavy_minus_sign: Resta          | `-`       | `12 - 2` | 
+| :heavy_multiplication_x: Multiplicación | `*`       | `2 * 3`  | 
+| :heavy_division_sign: División       | `/`       | `16 / 2` |
  
 >  :thinking_face:  Si por ejemplo tenemos la siguiente expresión matemática...
 >
