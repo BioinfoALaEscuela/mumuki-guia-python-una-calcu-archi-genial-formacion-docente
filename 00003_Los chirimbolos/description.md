@@ -8,16 +8,16 @@ En Python se puede usar los siguientes sı́mbolos básicos de matemáticas, que
 | División | / | | | | | | | | | | | | |
  
  
-Si por ejemplo tomamos la siguiente operación:
- 
-``` python
-5+30*20
-```
-
-o
-
-``` python
-(5+30)*20
-```
-
-¿Dá lo mismo?
+>  :thinking_face:  Si por ejemplo tenemos la siguiente expresión matemática...
+>
+> ```python
+> 5 + 30 * 20
+> ```
+>
+> y esta otra..
+>
+> ``` python
+> (5 + 30) * 20
+> ```
+>
+> ..¿darán lo mismo? ¡Probalas en la consola y averigualo!
