@@ -1,11 +1,11 @@
-En Python se puede usar los siguientes sı́mbolos básicos de matemáticas, que en programación se llaman operadores:
+En Python se puede usar los símbolos básicos de matemáticos :heavy_plus_sign:, :heavy_minus_sign:, :heavy_multiplication_x: y :heavy_division_sign:, que en programación se llaman operadores y se escriben así:
 
 |Operación	     | Operador  | Ejemplo  | 
 |-------------	 |----------	|-------  |
-| :heavy_plus_sign: Suma           | `+`       | `4 + 9`  | 
-| :heavy_minus_sign: Resta          | `-`       | `12 - 2` | 
-| :heavy_multiplication_x: Multiplicación | `*`       | `2 * 3`  | 
-| :heavy_division_sign: División       | `/`       | `16 / 2` |
+|  Suma           | `+`       | `4 + 9`  | 
+|  Resta          | `-`       | `12 - 2` | 
+|  Multiplicación | `*`       | `2 * 3`  | 
+|  División       | `/`       | `16 / 2` |
  
 >  :thinking_face:  Si por ejemplo tenemos la siguiente expresión matemática...
 >
