@@ -7,4 +7,4 @@ Podemos definir una variable de la siguiente forma:
 nombre de la variable = valor de la variable
 ```
 
-¿Podrías definir la variable a y asignarle el número 3?
+¿Podrías definir la variable `a` y asignarle el número `3`?
