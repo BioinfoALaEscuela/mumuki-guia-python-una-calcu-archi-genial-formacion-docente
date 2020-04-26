@@ -1,4 +1,4 @@
-En Python se puede usar los símbolos básicos de matemáticos :heavy_plus_sign:, :heavy_minus_sign:, :heavy_multiplication_x: y :heavy_division_sign:, que en programación se llaman operadores y se escriben así:
+Como acabamos de ver en Python podemos multiplicar :heavy_multiplication_x: y dividir :heavy_division_sign:, y como te imaginarás, también sumar   :heavy_plus_sign:  y restar , :heavy_minus_sign:. En programación a estos chirimbolos se los llaman _operadores_ y se escriben ligeramente diferentes:
 
 |Operación	     | Operador  | Ejemplo  | 
 |-------------	 |----------	|-------  |
@@ -19,4 +19,4 @@ En Python se puede usar los símbolos básicos de matemáticos :heavy_plus_sign:
 > (5 + 30) * 20
 > ```
 >
-> ..¿darán lo mismo? ¡Probalas en la consola y averigualo!
+> ..¿darán lo mismo? ¡Probalas averigualo!
