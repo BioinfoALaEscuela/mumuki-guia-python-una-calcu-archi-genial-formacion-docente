@@ -1,6 +1,6 @@
 ¡Probemos ahora para qué se usa la barra hacia adelante `/`!
 
-> Escribí en la consola:
+> Ahora escribí lo siguiente:
 >
 > ``` python
 > 8 / 4
