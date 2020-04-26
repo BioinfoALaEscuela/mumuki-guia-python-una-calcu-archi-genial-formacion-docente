@@ -4,4 +4,5 @@ Para modificar el contenido de una variable, es sumamente sencillo: debemos rees
 b = 500
 print(b)
 ```
-Probá definir una variable cuyo valor sea 6 y reasignarle un valor distinto 
+
+> Probá definir una variable cuyo valor sea 6 y reasignarle un valor distinto 
